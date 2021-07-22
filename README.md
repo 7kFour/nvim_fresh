@@ -1,2 +1,2 @@
 # nvim_fresh
-Fresh init.nvim 
+Fresh init.vim 
