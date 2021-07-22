@@ -1,2 +1,2 @@
 # nvim_fresh
-Fresh NVIM install - init.nvim 
+Fresh init.nvim 
